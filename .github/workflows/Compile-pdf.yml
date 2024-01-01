@@ -20,4 +20,4 @@ jobs:
     - uses: actions/upload-artifact@v4
       with:
         name: Output
-        path: pdf/*.pdf
+        path: ./*.pdf
